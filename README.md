@@ -1,7 +1,7 @@
-<H3>NAME: Kaushika A</H3>
-<H3>REGISTER NO: 212221230048</H3>
+<H3>NAME: VALASAREDDY PALLAVI</H3>
+<H3>REGISTER NO: 212221240059</H3>
 <H3>EX: NO.7</H3>
-<H3>DATE: 24.04.2024</H3> 
+<H3>DATE: </H3> 
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: </H3> 
 to perform automatic text summarization using Natural Language Processing (NLP) techniques. <BR>
