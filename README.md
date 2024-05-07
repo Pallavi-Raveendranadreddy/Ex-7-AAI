@@ -82,7 +82,7 @@ to advancements in technology and society as a whole."""
 
 <H3>Output</H3>
 
-![](1.PNG)
+![image](https://github.com/Pallavi-Raveendranadreddy/Ex-7-AAI/assets/94294872/5e47dc73-d4bb-4ab9-829c-83186324b88c)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Text summarization is executed sucessfully.
